@@ -8,7 +8,7 @@
                           
                           
 - 🌱 Make the world a better place
-          because you have lived in it.
+          because we have lived in it.
 <!---
 Krishnakumar59/Krishnakumar59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
