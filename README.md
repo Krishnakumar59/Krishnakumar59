@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on  Prosthetic Arm Development.
 - 📫 You can reach me by 
                           email 📧 krishnakumarjnk@gmail.com
-                          LinkedIn : https://www.linkedin.com/in/krishna-kumar-mukhiya
+                          LinkedIn : https://www.linkedin.com/in/krishna-kumar-mukhiya-31741016a/
 <!--                           Twitter :  -->
                           
                           
