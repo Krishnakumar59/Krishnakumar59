@@ -2,10 +2,13 @@
 - 👀 I’m Android Developer and developing App that give value to OpenSource Community.
 - 🌱 I’m currently learning DevOps, excited to make projects.
 - 💞️ I’m looking to collaborate on  Prosthetic Arm Development.
-- 📫 You can reach me by 
+- 📫 You can reach me by <br>
                           E-mail 📧 krishnakumarjnk@gmail.com
+                          <br>
                           LinkedIn : https://www.linkedin.com/in/krishna-kumar-mukhiya/
+                          <br>
                           Twitter : https://twitter.com/KrishnaKumar_01
+                          <br>
                           
                           
 <!-- - 🌱 Make the world a better place -->
