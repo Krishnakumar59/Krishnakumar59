@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Krishnakumar
-- 👀 I’m interested in Android App that give value to OpenSource Community.
+- 👀 I’m Android Developer and developing App that give value to OpenSource Community.
 - 🌱 I’m currently learning DevOps, excited to make projects.
 - 💞️ I’m looking to collaborate on  Prosthetic Arm Development.
 - 📫 You can reach me by 
-                          email 📧 krishnakumarjnk@gmail.com
-                          LinkedIn : https://www.linkedin.com/in/krishna-kumar-mukhiya-31741016a/
-<!--                           Twitter :  -->
+                          E-mail 📧 krishnakumarjnk@gmail.com
+                          LinkedIn : https://www.linkedin.com/in/krishna-kumar-mukhiya/
+                          Twitter : https://twitter.com/KrishnaKumar_01
                           
                           
 <!-- - 🌱 Make the world a better place -->
