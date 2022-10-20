@@ -7,8 +7,7 @@
                           <br>
                           LinkedIn : https://www.linkedin.com/in/krishna-kumar-mukhiya/
                           <br>
-                         <!--- Twitter : https://twitter.com/KrishnaKumar_01  --->
-                          <br>
+                 
                           
                           
 <!-- - 🌱 Make the world a better place -->
