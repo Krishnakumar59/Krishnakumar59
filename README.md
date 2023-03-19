@@ -9,6 +9,8 @@
 
 # 💫 About Me:
 🎯 I’m currently learning DevOps, excited to contribute to opensource projects.<br>
+✍️ You can check out my blogs here. [![Hashnode](https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=hashnode&logoColor=white)](https://krishnak.hashnode.dev/) <br>
+
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
