@@ -58,8 +58,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Krishnakumar59&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krishnakumar59) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/KrishnaKumar_01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnakumar59) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KrishnaKumar_01)
 
 
 [//]: # (## 🐦 Latest Tweet)
