@@ -59,11 +59,10 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnakumar59) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KrishnaKumar_01)
-
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/krishnakumarjnk)
 
 [//]: # (## 🐦 Latest Tweet)
-[//]: # ([![]&#40;https://gtce.itsvg.in/api?username=https://twitter.com/KrishnaKumar_01&#41;]&#40;https://github.com/VishwaGauravIn/github-twitter-card-embed&#41;)
+[//]: # ([![]&#40;https://gtce.itsvg.in/api?username=https://twitter.com/krishnakumarjnk&#41;]&#40;https://github.com/VishwaGauravIn/github-twitter-card-embed&#41;)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
